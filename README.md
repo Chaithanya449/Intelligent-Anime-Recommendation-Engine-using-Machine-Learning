@@ -1,0 +1,2 @@
+# Intelligent-Anime-Recommendation-Engine-using-Machine-Learning
+This project implements an intelligent Anime Recommendation System using Python, data analysis, and machine learning. It analyzes anime attributes and user preferences to generate personalized recommendations. Includes preprocessing, similarity modeling, evaluation, and visual insights to improve content discovery for anime enthusiasts.

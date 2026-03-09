@@ -35,6 +35,8 @@ Compute similarity between anime titles
 Identify the most similar anime
 
 Recommend top similar titles to the user
+
+
 🏗 System Architecture
 Anime Dataset
       │
@@ -51,6 +53,8 @@ Recommendation Engine
       │
       ▼
 Top Anime Recommendations
+
+
 📊 Dataset
 
 The dataset includes:
@@ -68,6 +72,7 @@ Anime Title
 Genre
 Rating
 User Score
+
 ⚙️ Machine Learning Techniques Used
 
 Similarity-based recommendation

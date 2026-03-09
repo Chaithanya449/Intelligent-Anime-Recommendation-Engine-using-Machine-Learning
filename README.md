@@ -38,6 +38,8 @@ Recommend top similar titles to the user
 
 
 🏗 System Architecture
+
+
 Anime Dataset
       │
       ▼
@@ -82,21 +84,28 @@ Feature engineering
 Data preprocessing
 
 Distance metrics (e.g., Cosine similarity)
+
 ▶️ How to Run the Project
+
 1️⃣ Clone the repository
 git clone https://github.com/Chaithanya449/Intelligent-Anime-Recommendation-Engine-using-Machine-Learning.git
 cd Intelligent-Anime-Recommendation-Engine-using-Machine-Learning
+
 2️⃣ Install required libraries
 pip install pandas numpy scikit-learn matplotlib seaborn
+
 
 3️⃣ Run the notebook
 
 Open the Jupyter Notebook:
 Recommendation system.ipynb
+
 📈 Example Recommendation
 
 Example input:
+
 Anime: Naruto
+
 Recommended Anime:
 1. Naruto Shippuden
 2. Bleach
